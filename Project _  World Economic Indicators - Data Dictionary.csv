@@ -1,0 +1,30 @@
+,,
+,,
+,,
+Sheet Name,Column Name,Meaning
+GDP,Region,Region
+GDP,Country/Region,Country - Region
+GDP,Year,Year of measurement
+GDP,GDP,Gross domestic product (in USD)
+GDP,Health Exp % GDP,Health expenditure as a % of GDP
+GDP,Health Exp/Capita,Health expenditure per capita (In USD)
+GDP,Lending Interest,Lending interest rate
+ENERGY,Energy Usage,Energy usage n KWh
+ENERGY,CO2 Emissions,Carbon dioxide emission in CO2e
+HUMAN RESOURCES,Birth Rate,Rate at which new births are taking place
+HUMAN RESOURCES,Infant Mortality Rate,% of infants that die before the age of 5 years
+HUMAN RESOURCES,Life Expectancy Female,Average life expentancy of Female
+HUMAN RESOURCES,Life Expectancy Male,Average life expentancy of Male
+HUMAN RESOURCES,Population 0-14,Percentage of total population between the age of 0-14
+HUMAN RESOURCES,Population 15-64,Percentage of total population between the age of 15-64
+HUMAN RESOURCES,Population 65+,Percentage of total population above 65 years of age
+HUMAN RESOURCES,Population Total,Total Population
+HUMAN RESOURCES,Population Urban,Percentage of total Population that lives in urban areas
+TOURISM,Tourism Inbound,Income in USD from international tourism arriving inside the country
+TOURISM,Tourism Outbound,Amount spent by ctizens on toursims by visiting other countries
+BUSINESS,Business Tax Rate,Tax on businesses
+BUSINESS,Days to Start Business,Average days it took for anyone to start business
+BUSINESS,Ease of Business,Ease of business index (1 = easy)
+BUSINESS,Hours to do Tax,Time to prepare and pay taxes in hours per year
+BUSINESS,Internet Usage,Percentage of population using internet
+BUSINESS,Mobile Phone Usage,Percentage of population using mobile phone
